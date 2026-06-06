@@ -23,7 +23,8 @@ Implementasi permainan Minesweeper di console dengan ukuran papan yang dapat dik
 Program kuis tebak nama negara yang menampilkan nama negara dengan sebagian hurufnya disembunyikan secara acak (diganti _). Pemain menebak nama negara yang dimaksud, mendapat skor jika benar, dan bisa memilih untuk terus bermain atau berhenti. Mencakup 70 negara dari berbagai benua dengan perbandingan jawaban yang tidak case-sensitive.
 
 5. Link Drive (Screenshot)
+https://drive.google.com/drive/folders/1HLJjGTbsPthag0O73sHZpV76R7C-RG5X
 
-6. Link Youtube
+7. Link Youtube
 https://youtu.be/pjVESurx3vk?si=0C-6qXNmTjBra7KN
 
